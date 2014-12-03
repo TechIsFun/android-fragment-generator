@@ -1,4 +1,6 @@
 android-fragment-generator
 ==========================
 
-Online Fragment Code Generator
+An Online Code Generator for Android Fragments.
+
+Try it [here](www.andreamaglie.com/android-fragment-generator/index.html)!
