@@ -5,7 +5,7 @@ An Online Code Generator for Android Fragments.
 
 Try it
 ------
-Click [here](http://www.andreamaglie.com/android-fragment-generator/index.html)!
+Click [here](http://www.andreamaglie.com/android-fragment-generator)!
 
 Source code
 -----------
